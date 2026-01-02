@@ -3,7 +3,7 @@
 A topic based sentiment analysis dashboard that analyzes Reddit discussions over a selected year using transformer-based NLP models.
 
 ### Dashboard Overview
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🔍 What This Project Does
 - Enter any topic (e.g. *crypto*, *AI stocks*, *mutual funds*)
